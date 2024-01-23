@@ -1,6 +1,6 @@
 # **Band Name Generator**
 
-This is a simple Express.js middleware project that generates a unique band name based on user input and displays it. It serves as a basic example of how to use middleware in an Express application.
+This is a simple Express.js middleware project that generates a unique band name based on user input and displays it. It serves as a basic example of how to use middleware in an Express application. This is a course project for course The Complete 2023 Web Development Bootcamp (AppBrewery).
 
 ## **Features**
 
